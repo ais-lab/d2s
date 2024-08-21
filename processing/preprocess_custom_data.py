@@ -8,7 +8,7 @@ Created Aug 2024
 import sys
 import os.path as osp
 sys.path.append(osp.join(osp.dirname(__file__), ".."))
-from utils.read_write_model import read_model, read_images_text, read_images_binary
+from utils.read_write_model import read_model
 import utils.utils as uuls 
 import h5py
 import argparse 

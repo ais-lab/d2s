@@ -72,7 +72,7 @@ Please download the pre-trained models by running:
 ```
 ./prepare_scripts/download_pre_trained_models.sh
 ```
-For example, to evaluate KingsCollege scene:
+For example, to evaluate Indoor6 scene1:
 ```
 python runners/eval.py --dataset indoor6 --scene scene1 -expv d2s
 ```

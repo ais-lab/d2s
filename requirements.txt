@@ -1,0 +1,16 @@
+pathlib
+open3d
+omegaconf
+h5py
+numpy
+scipy
+matplotlib
+tqdm
+pyyaml
+opencv-python
+pathlib
+poselib
+visdom
+scikit-image
+numpy==1.26.3
+gdown

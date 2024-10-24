@@ -1,9 +1,11 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+train_test_datasets/
 *.py[cod]
 *$py.class
 
 *.so
+*.zip
 
 # Distribution / packaging
 .Python

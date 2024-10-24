@@ -15,7 +15,7 @@
 D2S is a learning-based visual re-localization method. It concentrates on learning to generate 3D scene coordinates from sparse descriptors extracted from a single image. Once trained for a specific sparse SfM scene, D2S can accurately estimate the camera’s position and orientation from a new image of the scene. D2S also serves as a natural filter for outliers and non-robust descriptors, resulting in an enhanced localization accuracy down the line.
 
 <p align="center">
-<img src="assets/D2S.jpg">
+<img src="assets/D2S.svg">
 <p>
 
 <p align="center">
@@ -76,7 +76,7 @@ python runners/eval.py --dataset indoor6 --scene scene1 -expv d2s
 You can receive a result like this:
 
 <p align="center">
-<img src="assests/example_scene1.png">
+<img src="assets/example_scene1.png">
 <p>
 
 For pre-trained models of 7scenes, you can download it from [here](https://drive.google.com/file/d/1bQNctr2lpFVIhw2DjAmcpzwE-RdRD-yG/view?usp=sharing)

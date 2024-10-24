@@ -38,7 +38,7 @@ python -m pip install torch==1.12.0 torchvision==0.13.0
 python -m pip install -r requirements.txt
 ```
 
-D2S uses [hierarchical localization toolbox](https://github.com/cvg/Hierarchical-Localization)(hloc) to label descriptors coordinates. However, we provided scripts to download all preprocessed datasets for a immediate run. 
+D2S uses [hierarchical localization toolbox](https://github.com/cvg/Hierarchical-Localization)(hloc) to label descriptors coordinates. However, we provided scripts to download all preprocessed datasets for an immediate run. 
 
 ## Dataset 
 ### Supported Datasets

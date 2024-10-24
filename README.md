@@ -2,11 +2,15 @@
 ### [Project Page](https://thpjp.github.io/d2s/) | [Paper](https://arxiv.org/pdf/2307.15250.pdf)
 <br/>
 
+> D2S: Representing sparse descriptors and 3D coordinates for camera relocalization                                                                                                                                                
+> [Bach-Thuan Bui](https://thuanbb.github.io/), [Huy-Hoang Bui](https://github.com/AustrianOakvn), [Dinh-Tuan Tran](https://sites.google.com/view/tuantd), [Joo-Ho Lee](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000220;jsessionid=8CC0520A8C7C1F3D502596F0A07D64B0?lang=en)                   
+> IEEE Robotics and Automation Letters (RAL) 
+
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Dataset](#dataset)
     - [Supported Datasets](#supported-datasets)
-    - [Download preprocessed datasets](#Download_preprocessed_datasets)
+    - [Download preprocessed datasets](#Download-preprocessed-datasets)
 - [Evaluation](#Evaluation-with-pre-trained-models)
 - [Training](#Training)
 - [BibTex Citation](#bibTex-citation)

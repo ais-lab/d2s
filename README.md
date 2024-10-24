@@ -91,7 +91,7 @@ python runners/train.py --dataset indoor6 --scene scene1 -expv d2s
 ```
 
 ## BibTex Citation 
-If you find this project useful, please cite:
+If you find this project useful, please consider citing:
 ```
 @article{bui2024d2s,
   title={D2S: Representing sparse descriptors and 3D coordinates for camera relocalization},
